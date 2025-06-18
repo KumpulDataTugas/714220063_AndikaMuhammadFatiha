@@ -1,0 +1,4 @@
+[package]
+name = "rust-4"  # Nama project
+version = "0.1.0" # Versi project
+edition = "2021" # Versi bahasa Rust yang digunakan
